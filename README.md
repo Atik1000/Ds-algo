@@ -10,7 +10,7 @@
   <tr>
     <td>
       <h2><b> Array :</b></h2>
-         <img src="https://i.gifer.com/origin/1c/1c5d8eaaca6d8643e243c97cb24a59e4_w200.gif" alt="array img" width="500px" height="300px"></td>
+         <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fgifs%2Fsearch%2Fphased%2Barray&psig=AOvVaw1ZSMFoSZZTvZNjYCYAMyF_&ust=1636315750175000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjig7_FhPQCFQAAAAAdAAAAABAD" alt="array img" width="500px" height="300px"></td>
     <td>
     <h2><b> String :</b></h2>
          <img src="https://www.2braces.com/images/string-functions.svg" alt="string img" width="500px" height="300px"></td>
