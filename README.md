@@ -3,7 +3,7 @@
 # Data Structure and Algorithm :  &nbsp; &nbsp; &nbsp; <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--_t-LIFKB--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://media.giphy.com/media/TdAJ1T1ESmkCOCuOJQ/giphy.gif" width="200px" height="100px">
 
 <p>Want to learn data strutrues and algorithms ??? </p> 
-<p> Then Stop thinking more and start to learn today. This repo will help you to enhance your skills...Don't be bother about language (not english, hindi etc 😆😆 its C, C++, Python, Java etc 👍) you can choose any language and start learning...Have a good day!!! </p><br/>
+<p> Then Stop thinking more and start to learn today. This repo will help you to enhance your skills...Don't be bother about language (not english, bangla etc 😆😆 its C, C++, Python, Java etc 👍) you can choose any language and start learning...Have a good day!!! </p><br/>
 
 
 <Table>
