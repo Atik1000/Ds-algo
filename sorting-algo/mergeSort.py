@@ -1,5 +1,3 @@
-# merge sort implementation
-
 def mergeSort(arr):
     if len(arr) > 1:
         mid = len(arr)//2
@@ -29,7 +27,6 @@ def mergeSort(arr):
             arr[k] = R[j]
             j += 1
             k += 1
-# call function
 arr = [12, 11, 13, 5, 6, 7]
 mergeSort(arr)
 print(arr)
