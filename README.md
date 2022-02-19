@@ -39,4 +39,20 @@
     <h2><b> Trie :</b></h2> 
          <img src="https://cdn-media-1.freecodecamp.org/images/YiPnUv0Hp9U7qLalllTFdVewHDGApfZ6OMdh" alt="trie img" width="500px" height="350px"></td>
   </tr>
+
+    <tr>
+    <td>
+      <h2><b> BFS :</b></h2>
+         <img src="https://www.codesdope.com/staticroot/images/algorithm/bfs.gif" alt="graph img" width="500px" height="350px"></td>
+    <td>
+    <h2><b> DFS :</b></h2> 
+         <img src="https://cdn-media-1.freecodecamp.org/images/YiPnUv0Hp9U7qLalllTFdVewHDGApfZ6OMdh" alt="trie img" width="500px" height="350px">
+    </td>
+  </tr>
 </Table>
+
+
+<!-- heap sort -->
+
+
+<!-- activity selection problem -->
