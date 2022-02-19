@@ -1,10 +1,9 @@
 ![MasterHead](https://miro.medium.com/max/2000/1*2rKGJ6h1regwmfMcty3SLw.png)
 
-# Data Structure and Algorithm :  &nbsp; &nbsp; &nbsp; <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--_t-LIFKB--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://media.giphy.com/media/TdAJ1T1ESmkCOCuOJQ/giphy.gif" width="200px" height="100px">
+# Data Structure and Algorithm : &nbsp; &nbsp; &nbsp; <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--_t-LIFKB--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://media.giphy.com/media/TdAJ1T1ESmkCOCuOJQ/giphy.gif" width="200px" height="100px">
 
 <p>Want to learn data strutrues and algorithms ??? </p> 
 <p> Then Stop thinking more and start to learn today. This repo will help you to enhance your skills...Don't be bother about language (not english, bangla etc 😆😆 its C, C++, Python, Java etc 👍) you can choose any language and start learning...Have a good day!!! </p><br/>
-
 
 <Table>
   <tr>
@@ -40,12 +39,20 @@
          <img src="https://cdn-media-1.freecodecamp.org/images/YiPnUv0Hp9U7qLalllTFdVewHDGApfZ6OMdh" alt="trie img" width="500px" height="350px"></td>
   </tr>
 
-
-  </tr>
 </Table>
 
-
 <!-- heap sort -->
+<p>Want to learn heap-sort??? </p>
 
+<Table>
+  <tr>
+    <td>
+      <h2><b> BFS :</b></h2>
+         <img src="https://www.codesdope.com/staticroot/images/algorithm/bfs.gif" alt="bfs img" width="500px" height="300px"></td>
+    <td>
+    <h2><b> DFS :</b></h2>
+         <img src="https://www.2braces.com/images/string-functions.svg" alt="string img" width="500px" height="300px"></td>
+  </tr>
 
+</Table>
 <!-- activity selection problem -->
