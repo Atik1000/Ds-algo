@@ -51,7 +51,7 @@
          <img src="https://www.codesdope.com/staticroot/images/algorithm/bfs.gif" alt="bfs img" width="500px" height="300px"></td>
     <td>
     <h2><b> DFS :</b></h2>
-         <img src="https://www.2braces.com/images/string-functions.svg" alt="string img" width="500px" height="300px"></td>
+         <img src="https://www.codesdope.com/staticroot/images/algorithm/dfs.gif" alt="dfs img" width="500px" height="300px"></td>
   </tr>
 
 </Table>
