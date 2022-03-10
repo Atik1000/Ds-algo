@@ -25,7 +25,6 @@ class Graph:
         # and print it
         visited.add(v)
         print(v, end=' ')
-
         # Recur for all the vertices
         # adjacent to this vertex
         for neighbour in self.graph[v]:
@@ -35,17 +34,11 @@ class Graph:
     # The function to do DFS traversal. It uses
     # recursive DFSUtil()
     def DFS(self, v):
-
         # Create a set to store visited vertices
         visited = set()
-
         # Call the recursive helper function
         # to print DFS traversal
         self.DFSUtil(v, visited)
-
-# Driver code
-
-
 # Create a graph given
 # in the above diagram
 g = Graph()
