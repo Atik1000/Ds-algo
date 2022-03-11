@@ -59,7 +59,7 @@
       <h2><b> Prim's :</b></h2>
          <img src="https://i.stack.imgur.com/gMPmj.gif" alt="prims img" width="500px" height="300px"></td>
     <td>
-    <h2><b> Kkrushkal :</b></h2>
+    <h2><b> kruskals :</b></h2>
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/MST_kruskal_en.gif/600px-MST_kruskal_en.gif" alt="krushkal img" width="500px" height="300px"></td>
   </tr>
 
