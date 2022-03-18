@@ -9,3 +9,5 @@ def is_prime():
             print(n, "is a prime number")
     else:
         print(n, "is not a prime number")
+
+is_prime()
